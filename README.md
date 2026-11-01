@@ -66,18 +66,6 @@ The sky follows the clock too: a peach dawn (5–8), a bright blue day with drif
 
 No animation libraries: every effect is written by hand.
 
-## Run it locally
-
-You need Node.js 18.18 or newer.
-
-```bash
-git clone https://github.com/hibahdesu/<repository-name>.git
-cd <repository-name>
-npm install
-npm run dev
-```
-
-Then open http://localhost:3000.
 
 ## Project structure
 
